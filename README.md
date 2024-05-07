@@ -6,9 +6,7 @@ This file describes the structure of the `bookshop_DB` database designed for man
 
 * **Database Name:** bookshop_DB
 * **Description:** This database stores information about books, authors, publishers, customers, their shopping baskets, and warehouse stock levels.
-* **Database Management System (DBMS):** Assumed to be compatible with the provided SQL statements (likely MySQL or similar).
-* **Creation Date:** Not specified in the provided script.
-* **Last Updated:** Not specified in the provided script.
+* **Database Management System (DBMS):** Assumed to be compatible with the provided SQL statements (likely MySQL or 
 
 ### Data Structure
 
